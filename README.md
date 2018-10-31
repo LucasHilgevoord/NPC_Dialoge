@@ -1,13 +1,11 @@
-# Naam Proefopdracht
-NPC Dialoge.
+# NPC Dialoge.
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
+A dialoge system for npcs made within Unity3D. Easy to customize to desired outcome of the game within the engine.
 
 ## Features
 - [Demo](lucashilgevoord.com/demo/NPCDialoge)
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
 Researched software:
 -Unity3D/Unity2D
 	Minus Points:
@@ -41,22 +39,21 @@ It would give me more time to think about the scripting without having to learn 
 Furthermore the engine fits the internship where I want to go so having more projects in the Unity engine would benefit my skills and chance to get accepted.
 
 
-## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
+## Learning goals 
 - Learning different ways to create systems.
-- 
-- etc. etc.
+- Connections from one script to another.
+- Writing single responcebility code.
 
-## Planning 
+## Schedule 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 Vul een volledige 2 weken.
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | Research about possible engines. | Creating a  | --- | --- | --- |
-|week 2 | --- | --- | --- | --- | --- |
+|week 1 | Research about the possible engines. Day 1 | Research about possible engines. Day 2 | Creating a plan to start the project. | Research how other developers created the system | Creating the start of the dialoge |
+|week 2 | Adding sentences that follow up by another sentence | Creating a choice for the player | Animation | Finishing touches for the documentation | Handing in the finished product |
 
-## Bronnen
+## Sources
 - [The dialoge concept](https://www.youtube.com/watch?v=C1SfZ2Fp_BQ)
 - [Dialoge Tutorial within Unity](https://www.youtube.com/watch?v=_nRzoTzeyxU&t=1s)
 - [Dialoge Tutorial within Javascript](https://www.youtube.com/watch?v=OjldfRR0pZs)
