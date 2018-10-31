@@ -6,35 +6,35 @@ A dialoge system for npcs made within Unity3D. Easy to customize to desired outc
 - [Demo](lucashilgevoord.com/demo/NPCDialoge)
 
 ## Software Anaylse 
-Researched software:
--Unity3D/Unity2D
-	Minus Points:
-		-A lot of projects for my portfolio are in C#.
-	Plus Points:
-		-Cleaner end result.
-		-Familiar with the engine.
-		-More spare time to polish the product.
-		-Getting more knowledge in C#.
-		-Used by the internship where I want to go.
+Researched software:<br>
+-Unity3D/Unity2D<br>
+	Minus Points:<br>
+		-A lot of projects for my portfolio are in C#.<br>
+	Plus Points:<br>
+		-Cleaner end result.<br>
+		-Familiar with the engine.<br>
+		-More spare time to polish the product.<br>
+		-Getting more knowledge in C#.<br>
+		-Used by the internship where I want to go.<br>
 
--Unreal Engine
-	Minus Points:
-		-Not that familiar with the engine.
-		-Not heighly experienced with C++/Blueprints.
-		-Less time to focus on the product.
-	Plus Points:
-		-Getting more knowledge about the engine.
-		-Getting more knowledge in C++/Blueprints.
-		-Opportunity to get more C++ projects for my portfolio.
+-Unreal Engine<br>
+	Minus Points:<br>
+		-Not that familiar with the engine.<br>
+		-Not heighly experienced with C++/Blueprints.<br>
+		-Less time to focus on the product.<br>
+	Plus Points:<br>
+		-Getting more knowledge about the engine.<br>
+		-Getting more knowledge in C++/Blueprints.<br>
+		-Opportunity to get more C++ projects for my portfolio.<br>
 
--Javascript
-	Minus Points:
-		-Not the most enjoyable language.
-	Plus Points:
-		-Getting more knowledge in javascript.
+-Javascript<br>
+	Minus Points:<br>
+		-Not the most enjoyable language.<br>
+	Plus Points:<br>
+		-Getting more knowledge in javascript.<br>
 
-I used the Unity engine for this project. I choose this software because I have a lot more experience with the software. 
-It would give me an opportunity to focus on the scripts and the mechanic itself which will probably makes the game look and work a lot better then done within the other software.
+I used the Unity engine for this project. I choose this software because I have a lot more experience with the software. <br>
+It would give me an opportunity to focus on the scripts and the mechanic itself which will probably makes the game look and work a lot better then done within the other software.<br>
 It would give me more time to think about the scripting without having to learn the engine itself first.
 Furthermore the engine fits the internship where I want to go so having more projects in the Unity engine would benefit my skills and chance to get accepted.
 
