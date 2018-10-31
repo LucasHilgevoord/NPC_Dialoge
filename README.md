@@ -15,7 +15,7 @@ Researched software:
 		- More spare time to polish the product.
 		- Getting more knowledge in C#.
 		- Used by the internship where I want to go.
-
+<hr>
 - Unreal Engine:
 	- Minus Points:
 		- Not that familiar with the engine.
@@ -25,7 +25,7 @@ Researched software:
 		- Getting more knowledge about the engine.
 		- Getting more knowledge in C++/Blueprints.
 		- Opportunity to get more C++ projects for my portfolio.
-
+<hr>
 - Javascript:
 	- Minus Points:
 		- Not the most enjoyable language.
