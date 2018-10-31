@@ -1,29 +1,46 @@
-# Hexagon Grid
+# Naam Proefopdracht
+*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
-A hexagon mesh being used in a grid with possible further mechanics.
+Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
 
 ## Features
-- [Demo](www.lucashilgevoord.com/demo/HexagonGrid)
+Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
+
+- [Awesome Algoritme](link)
+- [Specifieke Mechanic](link)
+- [Iets unieks waar je trots op bent binnen de project](link)
 
 ## Software Anaylse 
-The software that has been used in this project is the Unity Engine with the C# language.<br>
-I tried using Javascript in the beginning of the project because it seemed easier to create lines and that was indeed the outcome.<br>
-Then i made the switch to unity to learn a bit more about how it could be made within unity with the uses of meshes.
+Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+-Naam Engine 1
+--Min Punt Engine 1
+--Plus punten Engine 1
 
-## Learning goals 
-- How do meshes work within unity.
-- Forumulas translated in code.
+-Naam Engine 2
+--Minpunt Engine 2
+--Pluspunt Engine 2
+
+-Welke Engine heb ik gebruikt
+-Waarom heb ik die keuze gemaakt en waarom niet de andere
+
+## Leerdoelen 
+Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
+- Het Flood-Fill algoritme snappen en toepassen
+- Het ontwikkelen van een generieke FSM.
 - etc. etc.
 
-## Schedule 
-- Monday: How do hexagons work.
-- Tuesday: Creating hexagons in Javascript.
-- Wednesday: Creating grid with hexagons in Javascript.
-- Thursday: Creating hexagons in Unity.
-- Friday: Creating hexagon grid in Unity.
+## Planning 
+Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
+Vul een volledige 2 weken.
 
+| | maandag | dinsdag | woensdag | donderdag | vrijdag |
+| --- | --- | --- | --- | --- | --- |
+|week 1 |
+|week 2 |
 
 ## Bronnen
-- [The hexagon itself](https://en.wikipedia.org/wiki/Hexagon)
-- [Creating hexagons](https://www.redblobgames.com/grids/hexagons/)
-- [Tutorial](https://catlikecoding.com/)
+Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+
+- [The Guide To Game Design](link)
+- [Alleatoric Algorithms](link)
+- [Flood-Fill Wikipedia](link)
