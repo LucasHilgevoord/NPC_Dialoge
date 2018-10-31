@@ -6,7 +6,7 @@ A dialoge system for npcs made within Unity3D. Easy to customize to desired outc
 
 ## Software Anaylse 
 Researched software:
-- Unity3D/Unity2D
+- Unity3D/Unity2D:
 	- Minus Points:
 		- A lot of projects for my portfolio are in C#.
 	- Plus Points:
@@ -16,7 +16,7 @@ Researched software:
 		- Getting more knowledge in C#.
 		- Used by the internship where I want to go.
 
-- Unreal Engine
+- Unreal Engine:
 	- Minus Points:
 		- Not that familiar with the engine.
 		- Not heighly experienced with C++/Blueprints.
@@ -26,11 +26,11 @@ Researched software:
 		- Getting more knowledge in C++/Blueprints.
 		- Opportunity to get more C++ projects for my portfolio.
 
-- Javascript
+- Javascript:
 	- Minus Points:
-	- Not the most enjoyable language.
-	- Plus Points:
-	- Getting more knowledge in javascript.
+		- Not the most enjoyable language.
+		- Plus Points:
+		- Getting more knowledge in javascript.
 
 I used the Unity engine for this project. I choose this software because I have a lot more experience with the software.<br>
 It would give me an opportunity to focus on the scripts and the mechanic itself which will probably makes the game look and work a lot better then done within the other software. It would give me more time to think about the scripting without having to learn the engine itself first.<br>
