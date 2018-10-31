@@ -4,20 +4,20 @@ NPC Dialoge.
 Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
 
 ## Features
-- [Demo](link)
+- [Demo](lucashilgevoord.com/demo/NPCDialoge)
 
 ## Software Anaylse 
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
 Researched software:
 -Unity3D/Unity2D
 	Minus Points:
-		-
-		-
-		-
+		-A lot of projects for my portfolio are in C#.
 	Plus Points:
 		-Cleaner end result.
 		-Familiar with the engine.
 		-More spare time to polish the product.
+		-Getting more knowledge in C#.
+		-Used by the internship where I want to go.
 
 -Unreal Engine
 	Minus Points:
@@ -26,28 +26,25 @@ Researched software:
 		-Less time to focus on the product.
 	Plus Points:
 		-Getting more knowledge about the engine.
-		-Getting more knowledge about the language.
+		-Getting more knowledge in C++/Blueprints.
+		-Opportunity to get more C++ projects for my portfolio.
 
 -Javascript
 	Minus Points:
-		-
-		-
-		-
+		-Not the most enjoyable language.
 	Plus Points:
-		-
-		-
-		-
+		-Getting more knowledge in javascript.
 
 I used the Unity engine for this project. I choose this software because I have a lot more experience with the software. 
-It would give me an opportunity to focus on the scripts 'game' itself which will probably makes the game look and work a lot better then done within the other software.
+It would give me an opportunity to focus on the scripts and the mechanic itself which will probably makes the game look and work a lot better then done within the other software.
 It would give me more time to think about the scripting without having to learn the engine itself first.
 Furthermore the engine fits the internship where I want to go so having more projects in the Unity engine would benefit my skills and chance to get accepted.
 
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
+- Learning different ways to create systems.
+- 
 - etc. etc.
 
 ## Planning 
@@ -56,8 +53,8 @@ Vul een volledige 2 weken.
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |
-|week 2 |
+|week 1 | Research about possible engines. | Creating a  | --- | --- | --- |
+|week 2 | --- | --- | --- | --- | --- |
 
 ## Bronnen
 - [The dialoge concept](https://www.youtube.com/watch?v=C1SfZ2Fp_BQ)
