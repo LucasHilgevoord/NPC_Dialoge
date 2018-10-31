@@ -32,12 +32,12 @@ Researched software:
 		-Not the most enjoyable language.
 	Plus Points:
 		-Getting more knowledge in javascript.
-
-I used the Unity engine for this project. I choose this software because I have a lot more experience with the software.
-It would give me an opportunity to focus on the scripts and the mechanic itself which will probably makes the game look and work a lot better then done within the other software.
-It would give me more time to think about the scripting without having to learn the engine itself first.
-Furthermore the engine fits the internship where I want to go so having more projects in the Unity engine would benefit my skills and chance to get accepted.
 </pre>
+
+I used the Unity engine for this project. I choose this software because I have a lot more experience with the software.<br>
+It would give me an opportunity to focus on the scripts and the mechanic itself which will probably makes the game look and work a lot better then done within the other software. It would give me more time to think about the scripting without having to learn the engine itself first.<br>
+Furthermore the engine fits the internship where I want to go so having more projects in the Unity engine would benefit my skills and chance to get accepted.
+
 
 ## Learning goals 
 - Learning different ways to create systems.
