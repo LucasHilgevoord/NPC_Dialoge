@@ -1,27 +1,48 @@
 # Naam Proefopdracht
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
+NPC Dialoge.
 
 Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
-
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [Demo](link)
 
 ## Software Anaylse 
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
--Naam Engine 1
---Min Punt Engine 1
---Plus punten Engine 1
+Researched software:
+-Unity3D/Unity2D
+	Minus Points:
+		-
+		-
+		-
+	Plus Points:
+		-Cleaner end result.
+		-Familiar with the engine.
+		-More spare time to polish the product.
 
--Naam Engine 2
---Minpunt Engine 2
---Pluspunt Engine 2
+-Unreal Engine
+	Minus Points:
+		-Not that familiar with the engine.
+		-Not heighly experienced with C++/Blueprints.
+		-Less time to focus on the product.
+	Plus Points:
+		-Getting more knowledge about the engine.
+		-Getting more knowledge about the language.
 
--Welke Engine heb ik gebruikt
--Waarom heb ik die keuze gemaakt en waarom niet de andere
+-Javascript
+	Minus Points:
+		-
+		-
+		-
+	Plus Points:
+		-
+		-
+		-
+
+I used the Unity engine for this project. I choose this software because I have a lot more experience with the software. 
+It would give me an opportunity to focus on the scripts 'game' itself which will probably makes the game look and work a lot better then done within the other software.
+It would give me more time to think about the scripting without having to learn the engine itself first.
+Furthermore the engine fits the internship where I want to go so having more projects in the Unity engine would benefit my skills and chance to get accepted.
+
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
@@ -39,8 +60,7 @@ Vul een volledige 2 weken.
 |week 2 |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
-
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [The dialoge concept](https://www.youtube.com/watch?v=C1SfZ2Fp_BQ)
+- [Dialoge Tutorial within Unity](https://www.youtube.com/watch?v=_nRzoTzeyxU&t=1s)
+- [Dialoge Tutorial within Javascript](https://www.youtube.com/watch?v=OjldfRR0pZs)
+- [Dialoge Tutorial within Unreal] (https://www.youtube.com/watch?v=vho7w6rUU7A)
