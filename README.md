@@ -5,34 +5,32 @@ A dialoge system for npcs made within Unity3D. Easy to customize to desired outc
 - [Demo](lucashilgevoord.com/demo/NPCDialoge)
 
 ## Software Anaylse 
-<pre>
 Researched software:
 -Unity3D/Unity2D
-	Minus Points:
-		-A lot of projects for my portfolio are in C#.
-	Plus Points:
-		-Cleaner end result.
-		-Familiar with the engine.
-		-More spare time to polish the product.
-		-Getting more knowledge in C#.
-		-Used by the internship where I want to go.
+&npsp;	Minus Points:
+&npsp;		-A lot of projects for my portfolio are in C#.
+&npsp;	Plus Points:
+&npsp;		-Cleaner end result.
+&npsp;		-Familiar with the engine.
+&npsp;		-More spare time to polish the product.
+&npsp;		-Getting more knowledge in C#.
+&npsp;		-Used by the internship where I want to go.
 
 -Unreal Engine<
-	Minus Points:
-		-Not that familiar with the engine.
-		-Not heighly experienced with C++/Blueprints.
-		-Less time to focus on the product.
-	Plus Points:<br>
-		-Getting more knowledge about the engine.
-		-Getting more knowledge in C++/Blueprints.
-		-Opportunity to get more C++ projects for my portfolio.
+&npsp;	Minus Points:
+&npsp;		-Not that familiar with the engine.
+&npsp;		-Not heighly experienced with C++/Blueprints.
+&npsp;		-Less time to focus on the product.
+&npsp;	Plus Points:<br>
+&npsp;		-Getting more knowledge about the engine.
+&npsp;		-Getting more knowledge in C++/Blueprints.
+&npsp;		-Opportunity to get more C++ projects for my portfolio.
 
 -Javascript
-	Minus Points:
-		-Not the most enjoyable language.
-	Plus Points:
-		-Getting more knowledge in javascript.
-</pre>
+&npsp;	Minus Points:
+&npsp;	-Not the most enjoyable language.
+&npsp;	Plus Points:
+&npsp;	-Getting more knowledge in javascript.
 
 I used the Unity engine for this project. I choose this software because I have a lot more experience with the software.<br>
 It would give me an opportunity to focus on the scripts and the mechanic itself which will probably makes the game look and work a lot better then done within the other software. It would give me more time to think about the scripting without having to learn the engine itself first.<br>
